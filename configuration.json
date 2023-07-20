@@ -1,0 +1,18 @@
+{
+    "components": [
+      {
+        "name": "lsp25h",
+        "model": "sensehat:sensor:lps25h",
+        "namespace": "rdk",
+        "attributes": {},
+        "depends_on": [],
+        "type": "sensor"
+      }
+    ],
+    "modules": [
+      {
+        "name": "sensehat",
+        "executable_path": "/Users/felixreichenbach/Documents/GitHub/sensehat/lps25h/bin/lps25h"
+      }
+    ]
+  }
